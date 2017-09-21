@@ -69,6 +69,10 @@ a {
     height: 34px;   
 }
 
+.search-button:hover, .search-button-icon {
+    cursor: pointer;
+}
+
 .search-button-icon{
 
     width:20px;
